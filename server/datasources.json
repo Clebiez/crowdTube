@@ -1,0 +1,16 @@
+{
+  "db": {
+    "name": "db",
+    "connector": "memory"
+  },
+  "mongo1": {
+    "host": "localhost",
+    "port": 27017,
+    "url": "",
+    "database": "crowdTube",
+    "password": "clebiez",
+    "name": "mongo1",
+    "user": "clebiez",
+    "connector": "mongodb"
+  }
+}
